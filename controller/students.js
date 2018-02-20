@@ -22,6 +22,9 @@ function list(req, res) {
 function create(req, res) {
   // TODO:
   // 1) Parse the form content
+
   // 2) Create new student from form content
+
   // 3) Render the index with the new student
+  
 }
